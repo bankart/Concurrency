@@ -1,2 +1,2 @@
 # concurrency
-GCD, OperationQueue sample
+GCD, OperationQueue sample from RWDevCon 2017 session
